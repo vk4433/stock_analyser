@@ -22,6 +22,8 @@ def analysing_stock (news,stock_price):
     3. Correlate news sentiment with stock price movements.
     4. Provide insights on potential future price direction based on the analysis.
     5.explain all the details and also mention the data in the tabular format
+    6.if the input is not related stocks replay them as i dont have imformation about the topic you are asking for
+
 
     Be concise, data-driven, and objective.
     """
