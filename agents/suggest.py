@@ -21,6 +21,7 @@ def suggestion (text):
     3. Give a **brief company overview**, including industry, market position, and recent performance.
     4. Offer an **objective investment recommendation**, balancing potential risks and rewards.
     5. Keep the information **concise yet detailed** for quick decision-making.
+    6.if the input is not related stocks replay them as i dont have imformation about the topic you are asking for
 
     Be **data-driven, unbiased, and to the point**.
     """
