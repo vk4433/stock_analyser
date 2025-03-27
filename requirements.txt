@@ -1,0 +1,12 @@
+google-generativeai
+ipykernel
+streamlit
+python-dotenv
+groq
+duckduckgo-search
+yfinance
+langchain
+langgraph
+langchain_community
+yahooquery
+-e .
